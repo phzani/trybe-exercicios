@@ -1,3 +1,0 @@
-A vila é bela
-Aprendendo na trybe
-Teste de unix

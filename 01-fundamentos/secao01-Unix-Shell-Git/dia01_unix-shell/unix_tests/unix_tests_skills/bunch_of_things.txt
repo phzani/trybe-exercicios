@@ -29,6 +29,7 @@ Burundi
 Cambodia
 Cameroon
 Canada
+Canadá
 Cape Verde
 Central African Rep
 Chad
@@ -143,8 +144,6 @@ Qatar
 Romania
 Russian Federation
 Rwanda
-St Kitts & Nevis
-St Lucia
 Saint Vincent & the Grenadines
 Samoa
 San Marino
@@ -163,6 +162,8 @@ South Africa
 South Sudan
 Spain
 Sri Lanka
+St Kitts & Nevis
+St Lucia
 Sudan
 Suriname
 Swaziland
@@ -180,6 +181,7 @@ Tunisia
 Turkey
 Turkmenistan
 Tuvalu
+USA
 Uganda
 Ukraine
 United Arab Emirates
@@ -193,5 +195,4 @@ Venezuela
 Vietnam
 Yemen
 Zambia
-ZimbabweJapao
-Alemanha
+ZimbabweHasta la vista, baby

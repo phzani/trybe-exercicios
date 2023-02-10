@@ -1,8 +1,8 @@
 Internet
 Unix
 Bash
-Java
 JavaScript
-node
-React
 SQL
+JAVA
+CSS
+HTML
