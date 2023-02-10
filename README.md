@@ -13,6 +13,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Introdução - Unix, Shell e Git
 
-- [x] Dia 1-1: _Unix & Shell;
-- [x] Dia 2-1: _Git - O que é e para que serve;
-- [x] Dia 3-1: _Git e GitHub - Entendendo os comandos;
+- [x] Dia 1: _Unix & Shell;
+- [x] Dia 2: _Git - O que é e para que serve;
+- [x] Dia 3: _Git e GitHub - Entendendo os comandos;
