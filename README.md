@@ -1,6 +1,3 @@
-# trybe-exercicios
-Conteúdo das Aulas da Trybe
-
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[phzani](www.linkedin.com/in/pedrozani)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
