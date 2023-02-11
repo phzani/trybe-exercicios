@@ -1,5 +1,5 @@
-    1  clear
-    2  branch
+
+
     3  git branch
     4  git branch -d atualizaREADME
     5  git checkout -b atualiza-readme
